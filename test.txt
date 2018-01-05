@@ -1,0 +1,24 @@
+Public 0 332145 1 0.99 12 Darabi
+Residential 1 1000000 0 270 4rd Avenue
+Residential 1 1000000 0 270 Brd Avenue
+Residential 1 1000000 0 270 Ard Avenue
+Residential 1 1000000 0 270 3rd Avenue
+Residential 0 2334211 0 475 E Wall Street
+Residential 3 432156 1 123 Apple-Garlic Road
+Residential 1 Hahahaha 0 432 Pear-Salt Avenue
+Residential 0 543216 2 543 Pineapple-Pepper Street
+Residential 1 456789 1 644 S 800 N
+Residential 1 456789 1 644 N 800 N
+Residential 1 456789 1 644 E 800 N
+Residential 1 456789 1 644 W 800 N
+Public 1 234567 0 98 Platic Ribon
+Commercial 0 654321 1 0.24 314 W A 200 W
+Commercial 0 654321 1 0.24 314 E A 200 W
+Commercial 0 654321 1 0.24 314 S A 200 W
+Commercial 0 654321 1 0.24 314 N A 200 W
+Commercial 1 765432 0 0.13 645 N 200 W
+Commercial 2 876543 1 0.4 654 WeWe Walk
+Commercial 0 kkkkkkk 0 0.25 765 RiRi Jump
+Commercial 1 987654 3 0.7 876 TuTu Climb
+Commercial 0 123456 1 77 987 YoYo Kooper
+Commercial  1 345678 0 0.67 234 Paper Strip
